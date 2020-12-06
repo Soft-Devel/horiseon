@@ -16,7 +16,7 @@
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-![Example screenshot](./images/horiseon_land_page.png)
+![Example screenshot](./assets/images/horiseon_land_page.jpg)
 
 ## Technologies
 * Tech 1 - version 1.0
